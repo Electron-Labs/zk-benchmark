@@ -1,4 +1,4 @@
-module zk-benchmark
+module github.com/Electron-Labs/zk-benchmark
 
 go 1.18
 
